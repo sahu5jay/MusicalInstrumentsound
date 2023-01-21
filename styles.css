@@ -1,0 +1,86 @@
+body {
+    background-color: #628E90;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    height: 500px;
+}
+
+.heading {
+    font-size: 5rem;
+    font-weight: 100;
+    font-family: 'Dancing Script', cursive;
+    padding-bottom: 120px;
+    color: #393E46;
+}
+
+h3 {
+    color: #820000;
+    font-size: 3rem;
+    font-weight: 100;
+    text-shadow: 3px;
+    font-family: 'Great Vibes', cursive;
+}
+
+.instrument {
+    width: 20px;
+    display: inline;
+}
+
+.Guitar {
+    width: 130px;
+    height: 130px;
+    outline: none;
+    line-height: 7;
+    border: 10px solid #94B49F;
+    font-size: 25px;
+    font-family: 'Explora', cursive;
+    text-align: end;
+    font-weight: 600;
+    text-shadow: 2px 0 #383838;
+    border-radius: 15px;
+
+    width: 130px;
+    height: 130px;
+    margin: 10px;
+    background-color: white;
+}
+
+.a {
+    background-image: url(images/Guiter.png);
+}
+
+.s {
+    background-image: url(images/cymbal.png);
+}
+
+.d {
+    background-image: url(images/french-horns.png);
+}
+
+.f {
+    background-image: url(images/Trumpet.png);
+}
+
+.h {
+    background-image: url(images/Piano.png);
+}
+
+.j {
+    background-image: url(images/Bongo.png);
+}
+
+.k {
+    background-image: url(images/Sitar.png);
+}
+
+.l {
+    background-image: url(images/saxophone.png);
+}
+
+footer {
+    text-align: center;
+}
